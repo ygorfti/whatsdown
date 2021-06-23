@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Whatsdown</string>
     <string name="lbl_enter">ENTRAR</string>
+    <string name="user_name">User name</string>
+    <string name="user_profile_picture">User profile picture</string>
+    <string name="sample_time">10:00</string>
+    <string name="last_message">Last message</string>
 </resources>
