@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Whatsdown</string>
+    <string name="lbl_enter">ENTRAR</string>
 </resources>
