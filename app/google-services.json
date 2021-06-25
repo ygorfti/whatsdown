@@ -1,1 +1,47 @@
-//ADD FIREBASE CONFIG FILE
+{
+  "project_info": {
+    "project_number": "89112408410",
+    "project_id": "fti-whatsdown",
+    "storage_bucket": "fti-whatsdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89112408410:android:0d1d1623aa8e800d4a0363",
+        "android_client_info": {
+          "package_name": "br.org.venturus.whatsdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89112408410-0folo1i4fp4uhte109mjqitbh2i3cuad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.org.venturus.whatsdown",
+            "certificate_hash": "e958e70dcef7ef8ff588bd966d85815d29ff80b7"
+          }
+        },
+        {
+          "client_id": "89112408410-ndkeh20olfd9kd5oar35mhoc5elaegmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDID5pZpdoIwn7anWWKTkc0Vju3Vs4Vjsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89112408410-ndkeh20olfd9kd5oar35mhoc5elaegmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
